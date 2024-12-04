@@ -5,10 +5,6 @@
 Alcalde (Extraño mundo de Jack)
 
 # Nombre Integrantes del Equipo
-| Integrante   |
-|--------------|
-|Guerrero Sánchez Princes Rocio|
-|Gutierrez Vargas Jose Andres|
 
 | Apellido Paterno | Apellido Materno | Nombre |
 |--------------|--------------|--------------|
