@@ -10,6 +10,11 @@ Alcalde (Extraño mundo de Jack)
 |Guerrero Sánchez Princes Rocio|
 |Gutierrez Vargas Jose Andres|
 
+| Apellido Paterno | Apellido Materno | Nombre |
+|--------------|--------------|--------------|
+| Guerrero| Sánchez | Princes Rocio|
+| Gutierrez | Vargas | Jose Andres |
+
 
 
 
