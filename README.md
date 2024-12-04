@@ -5,7 +5,9 @@
 Alcalde (Extraño mundo de Jack)
 
 # Nombre Integrantes del Equipo
-
+|Integrante|
+|Guerrero Sánchez Princes Rocio|
+|Gutierrez Vargas Jose Andres|
 
 # Materiales a usar
 
