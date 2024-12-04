@@ -27,3 +27,5 @@ Alcalde (Extraño mundo de Jack)
 # Video explicativo 
 
 # Fotos de elaboracion 
+
+# Evidencia de examenes de JavaScript
