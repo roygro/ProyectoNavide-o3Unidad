@@ -6,6 +6,7 @@ Alcalde (Extraño mundo de Jack)
 
 # Nombre Integrantes del Equipo
 
+
 # Materiales a usar
 
 # Software a utilizar
