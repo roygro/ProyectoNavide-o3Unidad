@@ -49,3 +49,6 @@ Link de las fotos de la elaboracion:
 # Evidencia de examenes de JavaScript
 
 Link de las capturas de pantalla: https://drive.google.com/drive/folders/17cEHZrkbPWvjNoKYK7bMCakWuPQ8J2h9?usp=sharing
+
+# Retroalimentacion (para mi compañero) 
+
