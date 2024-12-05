@@ -23,7 +23,7 @@ Alcalde (Extraño mundo de Jack)
 |sensor ultrasonico| 1 |
 
 # Software a utilizar
-
+| |
 |-------|
 |Thonny| 
 |Arduino|
