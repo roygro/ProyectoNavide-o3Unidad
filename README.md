@@ -15,14 +15,28 @@ Alcalde (Extraño mundo de Jack)
 
 
 # Materiales a usar
+| Material | Cantidad |
+|--------------|-----------|
+|Placa ESP32| 1 |
+|Servomotores| 8 |
+|Motor a pasos| |
+|sensor ultrasonico| 1 |
 
 # Software a utilizar
 
+|-------|
+|Thonny| 
+|Arduino|
+|Node-RED|
+
 # Prototipo dibujo 
+
 
 # Prototipo Final 
 
 # Comunicacion 
+
+La comunicacion se realiza mediante Node-RED,
 
 # Video explicativo 
 
