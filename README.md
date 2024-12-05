@@ -19,7 +19,7 @@ Alcalde (Extraño mundo de Jack)
 |--------------|-----------|
 |Placa ESP32| 1 |
 |Servomotores| 8 |
-|Motor DC 5V| |
+|Motor DC 5V|1 |
 |sensor ultrasonico| 1 |
 
 # Software a utilizar
