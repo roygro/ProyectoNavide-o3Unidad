@@ -21,6 +21,7 @@ Alcalde (Extraño mundo de Jack)
 |Servomotores| 8 |
 |Motor DC 5V|1 |
 |sensor ultrasonico| 1 |
+|Impresiones 3D|
 
 # Software a utilizar
 | |
