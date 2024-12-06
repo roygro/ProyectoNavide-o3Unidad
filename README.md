@@ -41,7 +41,11 @@ https://drive.google.com/file/d/1qjBL91by57MhihG4g9Sfm5kVMbnROLp7/view?usp=drive
 
 # Comunicacion 
 
-No logramos realizar la comunicación con Node-RED por los tiempos
+Se logró establecer la comunicación necesaria para activar el motor y permitir que la cabeza realice el movimiento de giro gracias a la implementación de Node-RED. Esta herramienta facilitó la configuración de flujos de datos y comandos, logrando que el sistema respondiera de manera precisa y eficiente.
+
+Mediante Node-RED, se desarrollaron nodos específicos para enviar las señales al motor, asegurando una interacción fluida entre los componentes y permitiendo que el giro de la cabeza se ejecutara correctamente. Su interfaz intuitiva y capacidad de integración simplificaron la coordinación de las acciones, garantizando que el movimiento se realizara según lo previsto. En conclusión, Node-RED fue fundamental para establecer esta comunicación y lograr el funcionamiento esperado del sistema.
+
+
 
 # Video explicativo 
 
