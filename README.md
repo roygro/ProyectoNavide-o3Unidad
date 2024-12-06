@@ -41,7 +41,7 @@ https://drive.google.com/file/d/1qjBL91by57MhihG4g9Sfm5kVMbnROLp7/view?usp=drive
 
 # Comunicacion 
 
-La comunicacion se realiza mediante Node-RED,
+No logramos realizar la comunicación con Node-RED por los tiempos
 
 # Video explicativo 
 
