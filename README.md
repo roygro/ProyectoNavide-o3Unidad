@@ -22,6 +22,7 @@ Alcalde (Extraño mundo de Jack)
 |Motor DC 5V|1 |
 |sensor ultrasonico| 1 |
 |Impresiones 3D|
+|Cables macho-hembra, hembra-macho, macho-macho|
 
 # Software a utilizar
 | |
