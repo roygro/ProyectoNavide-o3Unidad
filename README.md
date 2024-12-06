@@ -51,6 +51,7 @@ Mediante Node-RED, se desarrollaron nodos específicos para enviar las señales 
 # Video explicativo 
 
 Link del video donde se explica el funcionamiento: https://drive.google.com/drive/folders/1O4OMOVgo9YxVh9agWGBpI6fwdjLs55NM?usp=sharing
+Link de TikTok: https://vm.tiktok.com/ZMkR6DoCn/
 
 # Fotos de elaboracion 
 
