@@ -18,7 +18,7 @@ Alcalde (Extraño mundo de Jack)
 | Material | Cantidad |
 |--------------|-----------|
 |Placa ESP32| 1 |
-|Servomotores| 8 |
+|Servomotores| 9 |
 |Motor DC 5V|1 |
 |sensor ultrasonico| 1 |
 |Impresiones 3D|
