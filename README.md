@@ -32,6 +32,8 @@ Alcalde (Extraño mundo de Jack)
 
 # Prototipo dibujo 
 
+https://drive.google.com/file/d/1FTJWOePiw-W4mxoQyU4MbCRocuXio6of/view?usp=drivesdk
+
 
 # Prototipo Final 
 
