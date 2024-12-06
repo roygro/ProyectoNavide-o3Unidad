@@ -23,6 +23,7 @@ Alcalde (Extraño mundo de Jack)
 |sensor ultrasonico| 1 |
 |Impresiones 3D|
 |Cables macho-hembra, hembra-macho, macho-macho|
+|Leds|
 
 # Software a utilizar
 | |
