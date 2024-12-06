@@ -49,6 +49,8 @@ Link del video donde se explica el funcionamiento: https://drive.google.com/driv
 
 # Fotos de elaboracion 
 
+https://drive.google.com/drive/folders/1XzwEh_6AbaOyZu-9bXCZs-4Hvyb7h8ip
+
 Link de las fotos de la elaboracion: 
 
 # Evidencia de examenes de JavaScript
